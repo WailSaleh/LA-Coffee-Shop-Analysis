@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Market Analysis
+# ☕ LA Coffee Shop Market Analysis
 
 > A business analysis project evaluating the Los Angeles coffee shop market to support investment decisions, location planning, and long-term business growth using Python and data visualization.
 
