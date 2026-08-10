@@ -149,7 +149,7 @@ The repository includes a PDF report containing:
 # 📁 Repository Structure
 
 ```text
-coffee-shop-market-analysis/
+la-coffee-shop-market-analysis/
 │
 ├── README.md
 ├── LA Coffee Shop Market Analysis.ipynb
